@@ -4,4 +4,4 @@
 
 A simple app that demonstrates using Drag and Drop in Jetpack Compose.
 
-[Download demo](https://github.com/raheemadamboev/name/blob/compose-drag-drop/extra/app-debug.apk)
+[Download demo](https://github.com/raheemadamboev/compose-drag-drop/blob/main/extra/app-debug.apk)
